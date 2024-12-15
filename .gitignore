@@ -30,6 +30,7 @@ yarn-error.*
 *.pem
 
 # local env files
+constants/Secrets.ts
 .env*.local
 
 # typescript
